@@ -1,0 +1,8 @@
+.img-fixed {
+	/* object-fit: cover; */
+	
+	 height: 110px; 
+	 width: 150px; 
+	border-radius: 5px;
+	
+}
